@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jujubalandia](https://github.com/jujubalandia)
 
-- 💬 Ask me about **Google Cloud Platform, Data Management, Data Strategist, Data Engineering, Open Source General Technology and Modern Data Stack**
+- 💬 Ask me about **Google Cloud Platform, Data Management, Data Strategy, Data Engineering, Open Source General Technology and Modern Data Stack**
 
 - 📫 How to reach me **brunormoura@gmail.com**
 
