@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno Moura</h1>
-<h3 align="center">Open Source enthusiast, multi-language programmer, people manager, Raspberry Pi heavy user, Bass apprentice, Indie Rock addicted</h3>
+<h3 align="center">Open Source enthusiast, Dart, Flutter, Golang Zig programmer, Data analytics Manager, Raspberry Pi heavy user, Bass apprentice, Indie Rock addicted</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
 - 🔭 I’m currently working on [PickOneTech](https://github.com/InovaHub/PickOneTech)
 
-- 🌱 I’m currently learning **Modern SaaS Analytics Architecture, Smart Contracts, Rust, Jina/Streamlit/CUDA, Headless BI, Cross Mobile Apps**
+- 🌱 I’m currently learning **Modern SaaS Analytics Architecture, Smart Contracts, Zig program language, Jina/Streamlit/CUDA, Headless BI, Cross Mobile Apps**
 
 - 👯 I’m looking to collaborate on [SimplesAnalytics](https://github.com/InovaHub/SimplesAnalytics)
 
