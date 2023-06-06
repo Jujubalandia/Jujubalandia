@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Moura</h1>
-<h3 align="center">Open source enthusiast, Dart, Flutter, Golang programmer, Data analytics manager, RaspberryPi heavy user, Bass apprentice, Indie rock addicted</h3>
+<h3 align="center">Open source enthusiast, Dart, Flutter, Golang programmer, Data Analytics Manager, RaspberryPi heavy user, Bass apprentice, Indie rock addicted</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jujubalandia](https://github.com/jujubalandia)
 
-- 💬 Ask me about **Google Cloud Platform, Data Management, Data Strategy, Data Engineering, Open Source General Technology and Modern Data Stack**
+- 💬 Ask me about **Flutter Development Google Cloud Platform, Data Management, Data Strategy, Data Engineering, Open Source General Technology and Modern Data Stack**
 
 - 📫 How to reach me **brunormoura@gmail.com**
 
