@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bruno Moura</h1>
-<h3 align="center">Open source enthusiast, Dart, Flutter, Golang programmer, Data Analytics Manager, RaspberryPi heavy user, Bass apprentice, Indie rock addicted</h3>
+<h3 align="center">Open source enthusiast, Program Language polyglot, Tech People Manager, RaspberryPi heavy user, Bass apprentice, Indie rock addicted</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
-- 🔭 I’m currently working on [PickOneTech](https://github.com/InovaHub/PickOneTech)
+- 🔭 I’m currently building [PickOneTech]
 
-- 🌱 I’m currently learning **Modern SaaS Analytics Architecture, Smart Contracts, Zig program language, Jina/Streamlit/CUDA, Headless BI, Cross Mobile Apps**
+- 🌱 I’m currently working with side projects related to the following technologies **Modern SaaS Analytics Architecture, Smart Contracts, Headless BI, Cross Mobile Apps**
 
-- 👯 I’m looking to collaborate on [SimplesAnalytics](https://github.com/InovaHub/SimplesAnalytics)
+- 👯 I’m looking to collaborate on [SimplesAnalytics]
 
 - 👨‍💻 All of my projects are available at [https://github.com/jujubalandia](https://github.com/jujubalandia)
 
-- 💬 Ask me about **Flutter Development Google Cloud Platform, Data Management, Data Strategy, Data Engineering, Open Source General Technology and Modern Data Stack**
+- 💬 Ask me about **Software Engineer, Data Management/Strategy/Engineering, Open Source Modern Technology**
 
 - 📫 How to reach me **brunormoura@gmail.com**
 
@@ -19,6 +19,11 @@
 
 - ⚡ Fun fact **Two dogs and a daughter with me :-D**
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jujubalandia&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+[![Bruno Mouras GitHub stats](https://github-readme-stats.vercel.app/api?username=Jujubalandia)](https://github.com/Jujubalandia/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/jujubalandia?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
