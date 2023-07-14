@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bruno Moura</h1>
-<h3 align="center">Open source enthusiast, Program Language polyglot, Tech People Manager, RaspberryPi heavy user, Bass apprentice, Indie rock addicted</h3>
+<h3 align="center">Open source enthusiast, multi-programming language polyglot, data professional, Raspberry Pi heavy user, bass apprentice, indie rock addicted</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
-- 💬 Ask me about **Software Engineer, Data Management/Strategy/Engineering, Open Source Modern Technology**
+- 💬 Ask me about **Software Engineer, Data Professional**
 
-- 🌱 Besides my corporate job, I’m currently working with side projects related to the following technologies **Modern SaaS Analytics Architecture, Smart Contracts, Headless BI, Cross Mobile Apps**
+- 🌱 Besides my corporate job, I’m currently working with side projects related to the following technologies ** Cloud Analytics Stack, Headless BI, Metrics Layer and Cross Mobile Apps**
 
-- 👯 I’m looking to collaborate on [SimplesAnalytics]
-
-- 🔭 I’m currently building [PickOneTech]
+- 👯 I’m working and 🔭 currently building [SimplesAnalytics], a modern serverless and noOps open source-based analytics solution
 
 - 👨‍💻 All of my projects are available at [https://github.com/jujubalandia](https://github.com/jujubalandia)
 
 - 📫 How to reach me **brunormoura@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/brunormoura/](https://www.linkedin.com/in/brunormoura/)
+- 📄 Know about my experiences in my Linkedin profile [https://www.linkedin.com/in/brunormoura/](https://www.linkedin.com/in/brunormoura/)
 
 - ⚡ Fun fact **Two dogs and a daughter with me :-D**
 
