@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Moura</h1>
-<h3 align="center">Open source enthusiast, multi-programming language polyglot, data professional, Raspberry Pi heavy user, bass apprentice, indie rock addicted</h3>
+<h3 align="center">Open source enthusiast, multiprogramming language polyglot, data professional, Raspberry Pi heavy user, bass apprentice, indie rock addicted</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
