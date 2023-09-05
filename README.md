@@ -1,21 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bruno Moura</h1>
-<h3 align="center">Open source enthusiast, multiprogramming language polyglot, data professional, Raspberry Pi heavy user, bass apprentice, indie rock addicted</h3>
+<h3 align="center">Open source enthusiast, multiprogramming language, data professional, Raspberry Pi user, bass apprentice</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
-- 💬 Ask me about **Software Engineer, Data Professional**
+- 🌱 ** Cloud Analytics Stack, Headless BI, Metrics Layer and Cross Mobile Apps**
 
-- 🌱 Besides my corporate job, I’m currently working with side projects related to the following technologies ** Cloud Analytics Stack, Headless BI, Metrics Layer and Cross Mobile Apps**
+- 👯 Data Management, Engineering and Strategy
 
-- 👯 I’m working and 🔭 currently building [SimplesAnalytics], a modern serverless and noOps open source-based analytics solution
-
-- 👨‍💻 All of my projects are available at [https://github.com/jujubalandia](https://github.com/jujubalandia)
-
-- 📫 How to reach me **brunormoura@gmail.com**
-
-- 📄 Know about my experiences in my Linkedin profile [https://www.linkedin.com/in/brunormoura/](https://www.linkedin.com/in/brunormoura/)
-
-- ⚡ Fun fact **Two dogs and a daughter with me :-D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
