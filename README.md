@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Moura</h1>
+<h1 align="center">Hi 👋, I'm Bruno de Moura</h1>
 <h2 align="center">Data professional, Raspberry Pi user, bass apprentice</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
