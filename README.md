@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno Moura</h1>
-<h3 align="center">Open source enthusiast, multiprogramming language, data professional, Raspberry Pi user, bass apprentice</h3>
+<h3 align="center">Data professional, Raspberry Pi user, bass apprentice</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
-- 🌱 ** Cloud Analytics Stack, Headless BI, Metrics Layer and Cross Mobile Apps**
+- 🌱 ** Cloud Analytics GCP, AWS Stack, Data Analytics, Integration and Visualization Services **
 
-- 👯 Data Management, Engineering and Strategy
+- 👯 Data Products, Data Applications
 
 
 <h3 align="left">Connect with me:</h3>
