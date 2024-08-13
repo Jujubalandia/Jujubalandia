@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno de Moura</h1>
-<h2 align="center">Data Stuff, Mobile and Web Applications, Raspberry Pi aficionado, DIY Retro Game consoles, bass apprentice</h2>
+<h2 align="center">Data Stuff, Mobile and Web Applications, Raspberry Pi Aficionado, DIY Retro Game Consoles, Bass Apprentice</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
