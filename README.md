@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
-<h3>🌱 Data Analytics Management on GCP, AWS, Oracle and Microsoft Cloud, Poliglot Programmer</h3>
+<h3>🌱 Data Analytics Management on GCP, AWS, Oracle</h3>
 
 <h3>👯 Data Products, Data Applications</h3>
 
