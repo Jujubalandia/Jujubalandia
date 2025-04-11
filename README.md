@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bruno de Moura</h1>
-<h2 align="center">Data Stuff, Mobile and Web Applications, Raspberry Pi Aficionado, DIY Retro Game Consoles, Bass Apprentice</h2>
+<h1 align="center">👋 I'm Bruno de Moura</h1>
+<h2 align="center">Data Management, Mobile and Web Applications, DIY Retro Game Consoles</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
-<h3>🌱 Data Analytics Management on GCP, AWS, Oracle</h3>
+<h3>🌱 Data Analytics Management</h3>
 
-<h3 align="left"> 👯 Connect with me:</h3>
+<h3 align="left"> 👯 Cocial:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/brunormoura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunormoura" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 
 </p>
 
-<h3 align="left">Tech Stacks:</h3>
+<h3 align="left">Tech:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 </p>
 
