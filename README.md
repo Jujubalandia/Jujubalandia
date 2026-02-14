@@ -17,7 +17,7 @@
 <p align="left"> 
 
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.simpleicons.org/snowflake/#29B5E8" alt="snowflake" width="40" height="40"/> 
+  <img src="https://www.snowflake.com/wp-content/themes/snowflake/assets/img/brand-guidelines/bug-usage.png" alt="snowflake" width="40" height="40"/> 
 </a>
 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
