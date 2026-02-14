@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
 
-<h3>🌱 Data Analytics Management</h3>
+<h3>Data Management, Mobile and Web Applications, DIY Retro Games Consoles</h3>
 
 <h3 align="left"> 👯 Social:</h3>
 <p align="left">
