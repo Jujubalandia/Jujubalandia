@@ -1,47 +1,106 @@
-<h1 align="center">👋 I'm Bruno de Moura</h1>
-<h2 align="center">Data Management, Mobile and Web Applications, DIY Retro Games Consoles</h2>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jujubalandia&label=Profile%20views&color=0e75b6&style=flat" alt="jujubalandia" /> </p>
+# 👋 Hi, I'm Bruno de Moura
 
-<h3>Data Management, Mobile and Web Applications, DIY Retro Games Consoles</h3>
+### 🧠 Data governance veteran turned AI-agent wrangler
 
-<h3 align="left"> 👯 Social:</h3>
-<p align="left">
+*~20 years in regulated finance. I teach AI to follow the rules the way banks taught everyone else: politely, and with documentation in triplicate.*
 
-<a href="https://linkedin.com/in/brunormoura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunormoura" height="30" width="40" /></a>
-<a href="https://opendatainova.com.br/#/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="220175" height="30" width="40" /></a>
+![Profile views](https://komarev.com/ghpvc/?username=Jujubalandia&label=Profile%20views&color=0e75b6&style=flat)
+![Location](https://img.shields.io/badge/📍_São_Paulo-Brazil-009c3b?style=flat)
+![InovaHub](https://img.shields.io/badge/🏢_Org-InovaHub-8c1c3a?style=flat)
 
-</p>
+</div>
 
-<h3 align="left">Tech:</h3>
-<p align="left"> 
+---
 
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/user-attachments/assets/5e71b8fb-b07f-4632-89c0-49ab51285093" alt="snowflake" width="40" height="40"/> 
-</a>
+## 🗺️ The Short Version
 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-</a> 
-  
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
+```mermaid
+mindmap
+  root((🧑‍💻 Bruno de Moura))
+    📊 Data
+      ❄️ Snowflake Enterprise
+      🏛️ Data Governance
+      🧬 Cortex and Native Apps
+    🤖 AI
+      🕸️ Agents with MCP, A2A and LangGraph
+      🧰 Harness Engineering
+      🔎 RAG and Vector Search
+    ⚖️ Governance
+      📜 ISO IEC 42001
+      🇧🇷 LGPD and PL 2338
+      🏦 BACEN and CMN
+    🛠️ Builder
+      📱 React Native
+      ☁️ Cloudflare Workers
+      🕹️ DIY Retro Consoles
+    🎓 Credentials
+      ITA
+      Google GenAI Leader
+      Oracle OCI GenAI Pro
+```
 
-<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/> 
-</a>
+---
 
-</p>
+## 🔥 What I'm Building Now
 
-<p></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jujubalandia&" alt="jujubalandia" /></p>
-<p></p>
+> Claude is the engine. I build the car, the seatbelts and the speed limiter. 🏎️
 
-<img src="https://github-profile-trophy.vercel.app/?username=jujubalandia&theme=juicyfresh&no-bg=false" />
+| | Project | The pitch |
+|---|---|---|
+| 🧰 | **[rn-harness](https://github.com/Jujubalandia/rn-harness)** | A Claude Code harness for React Native. Skills, hooks and templates that take an app from spec to App Store and Play Store in 20 days. Auto-detects your stack, enforces quality gates, and `rn-doctor` runs 24 health checks so you find the bug before the reviewer does. |
+| ⚖️ | **[GOV.IA / Radar ISO 42001](https://inovahub.com.br)** | An AI governance diagnostic that crosswalks **57 requirements** across ISO 42001, PL 2338, BACEN/CMN and FSB. The platform scaffold runs on Cloudflare Workers + D1, with deterministic scoring, Claude-written reports and a `CLAUDE.md` harness keeping everyone honest. |
+| 🕵️ | **BrIA** | Multi-agent due diligence on Snowflake Cortex, LangGraph, MCP and A2A, fed with Brazilian public data. Think of it as a team of tireless analysts that never ask for a raise. |
+| ❄️ | **OpenDataInova** | A Snowflake Native App that serves Brazilian public data to agents over MCP, with governance built in. One dataset first. Discipline is a feature. |
 
+### 🧰 How a harness works (a.k.a. why my agents behave)
 
+```mermaid
+flowchart LR
+    I["💡 Idea"] --> H
+    subgraph H["🛡️ rn-harness: skills, hooks and quality gates"]
+        direction LR
+        A["📝 Spec"] --> B["🎨 UX"] --> C["💻 Dev"] --> D["🧪 QA"] --> E["📦 Store"] --> F["📣 Marketing"]
+    end
+    H --> L["🚀 Live in 20 days"]
+```
 
+---
 
+## 🧪 Tech I Use (and Occasionally Argue With)
 
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-retired_with_honors-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+---
+
+## 🎲 Plot Twists
+
+- 🕹️ I build **DIY retro game consoles**. Hardware bugs are just data quality issues with extra smoke.
+- 📵 I wrote [`scroll-block`](https://github.com/Jujubalandia/scroll-block), an app to manage my scrolling habits. Yes, I see the irony of hosting it on a social platform for developers.
+- 💊 **AMYNK** is a multimodal Gemini app for medicine info, and it earned international press coverage. Not bad for a side project.
+- ⚖️ I read the fine print (LGPD, ISO 42001, PL 2338) so your model doesn't get fined for it.
+
+---
+
+## 📬 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-brunodemoura.netlify.app-000000?style=flat-square&logo=netlify&logoColor=00C7B7)](https://brunodemoura.netlify.app)
+[![InovaHub](https://img.shields.io/badge/InovaHub-inovahub.com.br-8c1c3a?style=flat-square)](https://inovahub.com.br)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-BeraBravo-FFD21E?style=flat-square)](https://huggingface.co/BeraBravo)
+[![Kaggle](https://img.shields.io/badge/Kaggle-brunormoura-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/brunormoura)
+
+<div align="center">
+
+*Want to talk agents, governance or retro consoles? In that order. Or not. ☕*
+
+</div>
