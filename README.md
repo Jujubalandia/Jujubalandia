@@ -26,14 +26,17 @@ mindmap
     🤖 AI
       🕸️ Agents with MCP, A2A and LangGraph
       🧰 Harness Engineering
+        📱 rn-harness
+        🐦 flu-harness
+        🔥 sveflare
       🔎 RAG and Vector Search
     ⚖️ Governance
       📜 ISO IEC 42001
       🇧🇷 LGPD and PL 2338
       🏦 BACEN and CMN
     🛠️ Builder
-      📱 React Native
-      ☁️ Cloudflare Workers
+      📱 React Native and Flutter
+      ☁️ SvelteKit on Cloudflare
       🕹️ DIY Retro Consoles
     🎓 Credentials
       ITA
@@ -45,26 +48,39 @@ mindmap
 
 ## 🔥 What I'm Building Now
 
-> Claude is the engine. I build the car, the seatbelts and the speed limiter. 🏎️
+### 🧰 The Harness Lab
 
-| | Project | The pitch |
+> Agent = model + harness. The model is 10% of the result; the harness is 90%. 🏎️
+
+Claude is the engine. I build the car, the seatbelts and the speed limiter. One harness per stack, so far:
+
+| | Harness | The pitch |
 |---|---|---|
-| 🧰 | **[rn-harness](https://github.com/Jujubalandia/rn-harness)** | A Claude Code harness for React Native. Skills, hooks and templates that take an app from spec to App Store and Play Store in 20 days. Auto-detects your stack, enforces quality gates, and `rn-doctor` runs 24 health checks so you find the bug before the reviewer does. |
-| ⚖️ | **[GOV.IA / Radar ISO 42001](https://inovahub.com.br)** | An AI governance diagnostic that crosswalks **57 requirements** across ISO 42001, PL 2338, BACEN/CMN and FSB. The platform scaffold runs on Cloudflare Workers + D1, with deterministic scoring, Claude-written reports and a `CLAUDE.md` harness keeping everyone honest. |
-| 🕵️ | **BrIA** | Multi-agent due diligence on Snowflake Cortex, LangGraph, MCP and A2A, fed with Brazilian public data. Think of it as a team of tireless analysts that never ask for a raise. |
-| ❄️ | **OpenDataInova** | A Snowflake Native App that serves Brazilian public data to agents over MCP, with governance built in. One dataset first. Discipline is a feature. |
+| 📱 | **[rn-harness](https://github.com/Jujubalandia/rn-harness)**<br>React Native | Claude Code skills, hooks and templates that take an app from spec to App Store and Play Store in 20 days. Auto-detects your stack, enforces quality gates, and `rn-doctor` runs 24 health checks so you find the bug before the reviewer does. |
+| 🐦 | **[flu-harness](https://flu-harness.netlify.app)** · [repo](https://github.com/Jujubalandia/flu-harness)<br>Flutter | The same 20-day assembly line, Flutter edition. A wizard detects your stack across 16 dimensions, a 26-check doctor diagnoses the project, and quality gates behave identically in PowerShell, cmd and Git Bash. Windows had opinions; I documented them. |
+| 🔥 | **[sveflare](https://svelflare.netlify.app)** · [repo](https://github.com/Jujubalandia/dsh-sveltekit-cloudflare)<br>SvelteKit + Cloudflare | A DeepSeek Harness kit with 12 skills (D1, KV, R2, AI Gateway, auth, OWASP), 5 subagents (drafter, verifier, judge and two auditors) and **8 security gates** between your code and production. Because "works on my machine" is not a threat model. |
 
-### 🧰 How a harness works (a.k.a. why my agents behave)
+#### How the mobile harnesses work (a.k.a. why my agents behave)
 
 ```mermaid
 flowchart LR
     I["💡 Idea"] --> H
-    subgraph H["🛡️ rn-harness: skills, hooks and quality gates"]
+    subgraph H["🛡️ The harness: skills, hooks and quality gates"]
         direction LR
         A["📝 Spec"] --> B["🎨 UX"] --> C["💻 Dev"] --> D["🧪 QA"] --> E["📦 Store"] --> F["📣 Marketing"]
     end
-    H --> L["🚀 Live in 20 days"]
+    H --> L["🚀 Both stores in 20 days"]
 ```
+
+*sveflare swaps the store lanes for five slash commands: spec → plan → goal → verify → ship.*
+
+### 🤖 AI and Governance
+
+| | Project | The pitch |
+|---|---|---|
+| ⚖️ | **[GOV.IA / Radar ISO 42001](https://inovahub.com.br)** | An AI governance diagnostic that crosswalks **57 requirements** across ISO 42001, PL 2338, BACEN/CMN and FSB. The platform scaffold runs on Cloudflare Workers + D1, with deterministic scoring, Claude-written reports and a `CLAUDE.md` harness keeping everyone honest. |
+| 🕵️ | **BrIA** | Multi-agent due diligence on Snowflake Cortex, LangGraph, MCP and A2A, fed with Brazilian public data. Think of it as a team of tireless analysts that never ask for a raise. |
+| ❄️ | **OpenDataInova** | A Snowflake Native App that serves Brazilian public data to agents over MCP, with governance built in. One dataset first. Discipline is a feature. |
 
 ---
 
@@ -78,7 +94,9 @@ flowchart LR
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-retired_with_honors-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
